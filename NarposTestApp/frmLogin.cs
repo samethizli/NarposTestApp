@@ -37,8 +37,8 @@ namespace NarposTestApp
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            textBox1.Text = "test123@gmail.com";
-            textBox2.Text = "Babatest123*-";
+            textBox1.Text = "";
+            textBox2.Text = "";
         }
     }
 }
