@@ -17,7 +17,7 @@ Narpos Cost Test Otomasyonu, NarCOST sistemine ait temel modüllerin testlerini 
 
 ### 1. Test Edilecek URL'yi Girin
 
-![URL Giriş Ekranı](images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-07%20123701.png)
+![URL Giriş Ekranı](images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-07%20131649.png)
 
 ---
 
