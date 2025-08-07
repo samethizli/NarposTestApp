@@ -48,6 +48,8 @@ Narpos Cost Test Otomasyonu, NarPOS sistemine ait temel modüllerin testlerini o
 - Vergi Oluştur
 - Birim / Dönüşüm / Stok Grubu
 - Cari / Liste / Portföy
+- Alış / Satış Faturası
+- Zayi / Üretim / Sayım / Transfer İşlemleri
 
 ---
 
@@ -69,8 +71,4 @@ Tüm test sonuçları `.CSV` formatında dışa aktarılabilir. Böylece loglama
 
 Bu otomasyon aracı, NarPOS sisteminde yapılan manuel testleri hızlandırmak amacıyla geliştirilmiştir.
 
----
 
-## 📎 Lisans
-
-Bu proje özel kullanım içindir. Açık kaynak değildir.
