@@ -1,6 +1,6 @@
 # Narpos Cost Test Otomasyonu
 
-Narpos Cost Test Otomasyonu, NarPOS sistemine ait temel modüllerin testlerini otomatikleştirmek için geliştirilmiş bir masaüstü uygulamasıdır. Uygulama sayesinde test ortamına bağlanabilir, kullanıcı girişi yapabilir, test edilecek özellikleri seçebilir ve sonuçları detaylı biçimde analiz edebilirsiniz.
+Narpos Cost Test Otomasyonu, NarCOST sistemine ait temel modüllerin testlerini otomatikleştirmek için geliştirilmiş bir masaüstü uygulamasıdır. Uygulama sayesinde test ortamına bağlanabilir, kullanıcı girişi yapabilir, test edilecek özellikleri seçebilir ve sonuçları detaylı biçimde analiz edebilirsiniz.
 
 ## 🔧 Özellikler
 
